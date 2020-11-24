@@ -1,0 +1,7 @@
+C:\Users\LCMor\source\repos\GreeterWeek1Challenge\GreeterWeek1Challenge\obj\Debug\GreeterWeek1Challenge.csprojAssemblyReference.cache
+C:\Users\LCMor\source\repos\GreeterWeek1Challenge\GreeterWeek1Challenge\obj\Debug\GreeterWeek1Challenge.csproj.CoreCompileInputs.cache
+C:\Users\LCMor\source\repos\GreeterWeek1Challenge\GreeterWeek1Challenge\bin\Debug\GreeterWeek1Challenge.exe.config
+C:\Users\LCMor\source\repos\GreeterWeek1Challenge\GreeterWeek1Challenge\bin\Debug\GreeterWeek1Challenge.exe
+C:\Users\LCMor\source\repos\GreeterWeek1Challenge\GreeterWeek1Challenge\bin\Debug\GreeterWeek1Challenge.pdb
+C:\Users\LCMor\source\repos\GreeterWeek1Challenge\GreeterWeek1Challenge\obj\Debug\GreeterWeek1Challenge.exe
+C:\Users\LCMor\source\repos\GreeterWeek1Challenge\GreeterWeek1Challenge\obj\Debug\GreeterWeek1Challenge.pdb
